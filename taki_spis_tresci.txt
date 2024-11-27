@@ -6,3 +6,6 @@
         - wykresy dla reprezentacji outlinerów
         - usuniecie outlinerów
     - standaryzacja
+    - zapis nowych danych
+
+( 2 ) 
